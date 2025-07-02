@@ -42,7 +42,7 @@ const tasks = [
   {
     id: "sing",
     text: "歌配信でリクエスト曲を歌う(コメント欄で募集)",
-    unique: false,
+    unique: true,
   },
   {
     id: "dispose",
